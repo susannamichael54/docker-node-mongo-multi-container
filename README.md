@@ -15,3 +15,8 @@ You can get the docker image using the command:
 	
 	docker pull susannamic/node-mongo-multi-container
 
+References:
+	
+- 18th to 23rd videos in the series: https://www.youtube.com/watch?v=CYyUCJad954&list=PLRAV69dS1uWTJLvDP4Veld5F05rJAmOcp
+
+
